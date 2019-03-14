@@ -8,10 +8,10 @@
     "engines": {
         "vscode": "^1.29.0"
     },
-    "homepage": "https://github.com/flx86/vscode-flxsetimonokai/blob/master/README.md",
+    "homepage": "https://github.com/flx86/vscode-flxsetimonokai-theme/blob/master/README.md",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/flx86/vscode-flxsetimonokai.git"
+		"url": "https://github.com/flx86/vscode-flxsetimonokai-theme.git"
 	},
     "categories": [
         "Themes"
