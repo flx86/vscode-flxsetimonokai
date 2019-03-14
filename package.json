@@ -1,0 +1,28 @@
+{
+    "name": "flx-seti-monokai",
+    "displayName": "Flx Seti Monokai",
+    "description": "Seti Monokai syntax colors with a darker feel",
+    "author": "Flx86",
+    "publisher": "Flx86",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "homepage": "https://github.com/flx86/vscode-flxsetimonokai/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/flx86/vscode-flxsetimonokai.git"
+	},
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Flx Seti Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark seti-color-theme.json"
+            }
+        ]
+    }
+}
